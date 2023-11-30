@@ -1,6 +1,6 @@
 # Prf-Theme für WordPress
 
-![Prf theme screenshot](/home/re/Sources/Prf-Theme/screenshot.png "Prf theme screenshot")
+![Prf theme screenshot](screenshot.png "Prf theme screenshot")
 
 Dies ist ein einfaches [Child-Theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/), das 
 kleinere Anpassungen am [TwentyTwentyFour](https://de.wordpress.org/themes/twentytwentyfour/)-Theme von WordPress vornimmt.
