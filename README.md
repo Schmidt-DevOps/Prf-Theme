@@ -1,2 +1,3 @@
 # Prf-Theme
-Prf theme for WordPress
+
+This is a simple child theme of WordPress' default TwentyTwentyFour theme but with some minor customization.
