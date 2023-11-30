@@ -17,3 +17,4 @@ So installierst oder aktualisierst Du das Theme:
 4. Gehst Du im WordPress-Admin-Backend auf "Design > Themes > Neues Theme hinzufügen > Theme hochladen"
 5. Wähle die gerade heruntergeladene Datei aus und lade sie hoch und klicke auf "Jetzt installieren".
 6. Bei einer Aktualisierung bestätige bitte mit Klick auf "Installiertes durch Hochgeladenes ersetzen".
+7. Aktiviere das Theme bitte nun durch Klick auf "Aktivieren" oder im WP-Admin-Backend unter "Design > Themes".
